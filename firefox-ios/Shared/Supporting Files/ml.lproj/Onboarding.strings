@@ -151,8 +151,14 @@
 /* Agreement text for sending diagnostic and interaction data to Mozilla in the Terms of Service screen. %1$@ is the app name (e.g. Firefox), %2$@ is company name (e.g. Mozilla), %3$@ is a Manage link button which redirect the user to another screen in order to manage the data collection preferences. */
 "Onboarding.Modern.TermsOfService.ManagePreferenceAgreement.v140" = "അന്വേഷിയന്ത്രത്തിനെ മെച്ചപ്പെുടത്താൻ %1$@ %2$@-ക്കു് നിദാനനിർണയനീയും ഇടപാടുനീയ ദത്ത അയയ്ക്കാറുണ്ടു്. %3$@";
 
+/* Agreement text for sending data. %1$@ is the app name, %2$@ is the company name, %3$@ is the placeholder for the Manage settings link. */
+"Onboarding.Modern.TermsOfService.ManagePreferenceAgreement.v145" = "അന്വേഷിയന്ത്രത്തിനെ മെച്ചപ്പെുടത്താൻ %1$@ %2$@-ക്കു് നിദാനനിർണയനീയും ഇടപാടുനീയ ദത്ത അയയ്ക്കാറുണ്ടു്. %3$@";
+
 /* Agreement text for Privacy Notice in the Terms of Service screen. %1$@ is the app name (e.g. Firefox), %2$@ is for the Privacy Notice link button that redirect the user to the Privacy Notice page. */
 "Onboarding.Modern.TermsOfService.PrivacyNoticeAgreement.v140" = "താങ്ങളുടെ സ്വകാര്യതക്കു് %1$@ ശ്രദ്ധിക്കാറുണ്ടു്. ഞങ്ങളുടെ %2$@-ൽ കൂടുതൽ വായിക്കുക";
+
+/* Agreement text for Privacy Notice. %1$@ is the app name (e.g. Firefox), %2$@ is the placeholder for the Privacy Notice link. */
+"Onboarding.Modern.TermsOfService.PrivacyNoticeAgreement.v145" = "താങ്ങളുടെ സ്വകാര്യതക്കു് %1$@ ശ്രദ്ധിക്കാറുണ്ടു്. ഞങ്ങളുടെ %2$@-ൽ കൂടുതൽ വായിക്കുക.";
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
 "Onboarding.Modern.TermsOfService.PrivacyNoticeLink.v140" = "സ്വകാര്യതാ അറിയിപ്പു്.";
