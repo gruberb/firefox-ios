@@ -4173,6 +4173,8 @@
 		432596062C85D88C005EE33C /* sl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sl; path = sl.lproj/MainMenu.strings; sourceTree = "<group>"; };
 		432596072C85D88C005EE33C /* sl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sl; path = sl.lproj/SuggestedSites.strings; sourceTree = "<group>"; };
 		4325A14B2ACAE0BC00010E11 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Share.strings"; sourceTree = "<group>"; };
+		4325CD392F1905AA006EFCB3 /* sat-Olck */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sat-Olck"; path = "sat-Olck.lproj/ExternalLink.strings"; sourceTree = "<group>"; };
+		4325CD3A2F1905AA006EFCB3 /* sat-Olck */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sat-Olck"; path = "sat-Olck.lproj/LiveActivity.strings"; sourceTree = "<group>"; };
 		43262C382A52E54200A5A25F /* ia */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ia; path = ia.lproj/CustomizeFirefoxHome.strings; sourceTree = "<group>"; };
 		43262C392A52E54200A5A25F /* ia */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ia; path = ia.lproj/SelectCreditCard.strings; sourceTree = "<group>"; };
 		43263DA82CBD3A12000C2C5F /* sat-Olck */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sat-Olck"; path = "sat-Olck.lproj/Bookmarks.strings"; sourceTree = "<group>"; };
@@ -20899,6 +20901,7 @@
 				434B15782E4DFBED00CA0EC8 /* ro */,
 				435C27AD2E69AC62006B0D62 /* tt */,
 				4321E8EA2E8559960007800A /* bg */,
+				4325CD392F1905AA006EFCB3 /* sat-Olck */,
 			);
 			name = ExternalLink.strings;
 			sourceTree = "<group>";
@@ -21721,6 +21724,7 @@
 				434B157E2E4DFBEE00CA0EC8 /* ro */,
 				435C27B02E69AC62006B0D62 /* tt */,
 				4321E8F32E8559960007800A /* bg */,
+				4325CD3A2F1905AA006EFCB3 /* sat-Olck */,
 			);
 			name = LiveActivity.strings;
 			sourceTree = "<group>";
